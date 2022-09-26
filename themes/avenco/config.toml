@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
-baseURL = "http://example.org/"
+baseURL = "https://fabiansato.dev"
 languageCode = "en-us"
-title = "FabianSato.dev"
+title = "FabianSato.dev - Developer"
 googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
 paginate = 6
 
