@@ -2,19 +2,19 @@
 # General Site Settings
 baseURL = "https://fabiansato.dev"
 languageCode = "en-us"
-title = "FabianSato.dev"
-googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
+title = "FabianSato"
+googleAnalytics = "G-EWFWEGYPFP" # Add your identifier. For example UA-99631805-1.
 paginate = 6
 
 
 [params]
-  logo = "" # You can add own logo. For example "/images/logo.png".
-  description = "Avenco - Creative Portfolio Theme for HUGO"
+  logo = "images/logo.png" # You can add own logo. For example "/images/logo.png".
+  description = "Web Dev and Technologies"
 
 
 [params.global.image]
   enable = true
-  cover__image = 'https://via.placeholder.com/1920x600' # Add global cover image (This field adds a background to the top and bottom of the site.)
+  cover__image = 'images/cover-image.jpg' # Add global cover image (This field adds a background to the top and bottom of the site.)
 
 #-------------------------------
 # Main Menu
@@ -60,7 +60,7 @@ paginate = 6
   [params.author]
     author__name = "Fabian Sato"
     author__title = "👋 Hello I’m Fabian Sato"
-    author__bio = "Art Director & Graphic Designer based in Australia, crafting beautiful and functional websites and mobile apps. When I’m not working, I’m probably listening to relaxing music or traveling somewhere."
+    author__bio = "<b>Software Engineer at DEPT&#8482;</b> with Adobe Experience Manager (AEM) platform.<br><b>Technologies:</b> HTML, CSS, Javascript, PHP, Mysql, Reactjs, NodeJS. <br> <b>Degrees:</b> Digital Graphic Designer and Fullstack Developer + React (National Technological University). I also love the Geek world 🤓."
     author__image = "https://via.placeholder.com/600x600"
     author__avatar = "https://via.placeholder.com/200x200"
     button__text = "See my works"
